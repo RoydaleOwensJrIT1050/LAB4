@@ -1,0 +1,8 @@
+C.O.L: 1
+CR:3
+ENT:2
+PO:1
+SC:1
+TX:1
+TR:1
+WE:2
